@@ -3,7 +3,7 @@ public struct SwiftPackage {
     public init() {
     }
     
-    
+    public static let calculator = Calculator()
     
     /// A function that prints "Hello World"
     public static func helloWorld() {
